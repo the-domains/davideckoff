@@ -1,0 +1,28 @@
+name: DavidEckoff
+favicon: null
+layout_spectrum: 0.5200348964426666
+typography_spectrum: 0.44539263867773116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5030215929728001
+  lightness: 0.5955010517500341
+  saturation: 0.814115378074348
+  rhythmicContrast: 0.42599557200446725
+purpose: []
